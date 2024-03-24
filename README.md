@@ -121,7 +121,7 @@ Open up this file. To build and launch the program press F5.
 - [x] Allow user to sign up and sign in
 - [x] Create HTML pages for all sections
 - [x] Connect MYSQL database with webpage
-- [ ] Allow user to publish a car
+- [x] Allow user to publish a car
 - [ ] Allow user to search car rental list
 - [ ] Allow user to interact with other users
 - [ ] Create an admin role
