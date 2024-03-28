@@ -125,7 +125,7 @@ Open up this file. To build and launch the program press F5.
 - [ ] Allow user to search car rental list
 - [ ] Allow user to interact with other users
 - [ ] Create an admin role
-- [ ]  
+
 
 
 
